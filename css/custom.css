@@ -22,3 +22,27 @@
 .navbar .nav > li > a {
     color:  black;
 }
+
+.faqTextHighlight {
+    color: rgb(147, 210, 205);
+    font-weight: bold;
+}
+
+.borrowRow{
+    background-color: rgb(180, 168, 127);
+}
+
+/* CSS used here will be applied after bootstrap.css */
+.jumbotron{width:80%;margin-left:10%;max-width: 1200px;margin-left:auto; margin-right:auto;}
+.img-center {margin:0 auto;}
+.dl-horizontal dt{white-space: normal;}
+.omacenter{margin-left:auto; margin-right:auto;}
+.titre{color:#fff;}
+.entete{background-color: #22780F;width:80%;margin-left:10%;}
+
+.underliner {
+    text-decoration: underline;
+    -moz-text-decoration-color: red; /* Code for Firefox */
+    text-decoration-color: red;
+}
+
