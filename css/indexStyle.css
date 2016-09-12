@@ -1,0 +1,35 @@
+.bg-brownary {
+    background: url('../img/t1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.logos{
+    padding:20px;
+}
+
+.marginTop5 {
+    margin-top: 5%;
+}
+
+.marginTopsome {
+    margin-top: 1%;
+}
+
+.marginTopabit {
+    margin-top: 0.5%;
+}
+
+.borrowRow{
+    background-color:  rgb(180, 168, 127);
+}
+
+.brownAgain {
+    background: rgb(180, 168, 127);
+    border: 0px;
+    color: white;
+}
+
