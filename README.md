@@ -1,2 +1,2 @@
 # reshareAppCom
-Unfinished web app attempt
+Unfinished bootstrap responsive layers layout
